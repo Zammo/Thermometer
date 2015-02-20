@@ -15,3 +15,6 @@ Thermometer built with Arduino and the component DS18B20.
  B. Run the "Read.py" code.
  
  C. Run the "Graph.py" code.
+
+# Results
+![Alt text](http://i.imgur.com/ttPN9tg.png "Results")
